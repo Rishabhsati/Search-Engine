@@ -11,7 +11,7 @@ This is a Java-based web application for a search engine that utilizes the Depth
 ## Instructions for Running the Project
 
 ### Clone the Repository:
-- git clone https://github.com/your-username/Search-Engine.git
+- git clone [https://github.com/Rishabhsati/Search-Engine.git](https://github.com/Rishabhsati/Search-Engine)
 - cd Search-Engine
 - open mysql and create database and create table pages and history and then 
 - open web crawler folder and run that folder after that open search engine folder and run that folder
